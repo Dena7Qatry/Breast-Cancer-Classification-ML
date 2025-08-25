@@ -39,5 +39,4 @@ Given the small training dataset, further validation on larger and balanced data
 - **Improved Feature Selection:** Address high feature correlation using neural network approaches (e.g., CNNs).  
 - **Better Outlier Handling:** Experiment with different clipping thresholds beyond the 5th and 95th percentiles.  
 - **Explainability:** Tree-based models (Random Forest, XGBoost) are inherently explainable, which is important for medical applications.
-   ```bash
-   git clone https://github.com/your-username/Breast-Cancer-Classification-ML.git
+  
